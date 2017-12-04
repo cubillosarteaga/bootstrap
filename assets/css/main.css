@@ -1,0 +1,51 @@
+.navbar{
+	border-radius: 0%;
+}
+
+
+.btn.btn-primary.btn-lg, .btn.btn-info.btn-lg, .btn.btn-success.btn-lg, .btn.btn-.btn-lg, .btn.btn-warning.btn-lg, .btn.btn-danger.btn-lg{
+	margin-left: 0.4em;
+	border-radius: 0.3em !important;
+}
+
+.btn.btn-default.btn-lg{
+	border-radius: 0.3em !important;
+	background-color: linear-gradient
+}
+
+.btn.btn-primary.btn-md, .btn.btn-info.btn-md, .btn.btn-success.btn-md, .btn.btn-.btn-md, .btn.btn-warning.btn-md, .btn.btn-danger.btn-md{
+	margin-left: 0.4em;
+	border-radius: 0.3em !important;
+}
+
+.btn.btn-default.btn-md{
+	border-radius: 0.3em !important;
+	background-color: linear-gradient
+}
+
+.btn.btn-primary.btn-sm, .btn.btn-info.btn-sm, .btn.btn-success.btn-sm, .btn.btn-.btn-sm, .btn.btn-warning.btn-sm, .btn.btn-danger.btn-sm{
+	margin-left: 0.4em;
+	border-radius: 0.3em !important;
+}
+
+.btn.btn-default.btn-sm{
+	border-radius: 0.3em !important;
+	background-color: linear-gradient
+}
+
+.btn.btn-primary.btn-xs, .btn.btn-info.btn-xs, .btn.btn-success.btn-xs, .btn.btn-.btn-xs, .btn.btn-warning.btn-xs, .btn.btn-danger.btn-xs{
+	margin-left: 0.4em;
+	border-radius: 0.3em !important;
+}
+
+.btn.btn-default.btn-xs{
+	border-radius: 0.3em !important;
+	background-color: linear-gradient
+}
+.btn-group{
+	padding-bottom: 2em;
+}
+
+.bad{
+	margin-top: 1em !important;
+}
